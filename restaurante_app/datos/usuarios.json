@@ -1,0 +1,52 @@
+[
+  {
+    "identificacion": "1001",
+    "nombre": "Ana Gómez",
+    "correo": "ana@restaurante.com"
+  },
+  {
+    "identificacion": "1002",
+    "nombre": "Luis Pérez",
+    "correo": "luis@restaurante.com"
+  },
+  {
+    "identificacion": "2565588998",
+    "nombre": "Jose Delgado",
+    "correo": "josedelgado121@gmail.com"
+  },
+  {
+    "identificacion": "1003",
+    "nombre": "María López",
+    "correo": "maria@restaurante.com"
+  },
+  {
+    "identificacion": "1004",
+    "nombre": "Carlos Ruiz",
+    "correo": "carlos@restaurante.com"
+  },
+  {
+    "identificacion": "2154556658",
+    "nombre": "emy",
+    "correo": "cvbij@gmail.com"
+  },
+  {
+    "identificacion": "5hgfd",
+    "nombre": "5",
+    "correo": "5"
+  },
+  {
+    "identificacion": "8512",
+    "nombre": "fd",
+    "correo": "556gfc"
+  },
+  {
+    "identificacion": "7",
+    "nombre": "8",
+    "correo": "5"
+  },
+  {
+    "identificacion": "TEST-U1",
+    "nombre": "Usuario Test",
+    "correo": "test@example.com"
+  }
+]

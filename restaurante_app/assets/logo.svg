@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160" role="img" aria-label="Logo restaurante_app">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#b45309"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="160" rx="18" fill="#fff7ed"/>
+  <circle cx="72" cy="78" r="38" fill="url(#g1)"/>
+  <path d="M56 82c7-15 17-26 30-32 7 11 12 24 12 38-18 8-30 10-42-6zm18 26c-5 0-9 4-9 9v3h34v-3c0-5-4-9-9-9h-16z" fill="#fff"/>
+  <text x="130" y="72" font-size="34" font-family="Segoe UI, Arial, sans-serif" font-weight="700" fill="#7c2d12">restaurante_app</text>
+  <text x="132" y="104" font-size="18" font-family="Segoe UI, Arial, sans-serif" fill="#a16207">Sistema de usuarios y ventas</text>
+</svg>

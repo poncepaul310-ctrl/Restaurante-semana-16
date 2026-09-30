@@ -1,0 +1,38 @@
+{
+  "P001": {
+    "codigo": "P001",
+    "nombre": "Pizza Margarita",
+    "categoria": "Pizzas",
+    "precio": 12000.0
+  },
+  "P002": {
+    "codigo": "P002",
+    "nombre": "Hamburguesa",
+    "categoria": "Fast Food",
+    "precio": 9000.0
+  },
+  "P003": {
+    "codigo": "P003",
+    "nombre": "Ensalada César",
+    "categoria": "Ensaladas",
+    "precio": 7500.0
+  },
+  "P004": {
+    "codigo": "P004",
+    "nombre": "Café Americano",
+    "categoria": "Bebidas",
+    "precio": 2500.0
+  },
+  "002": {
+    "codigo": "002",
+    "nombre": "sopa",
+    "categoria": "3",
+    "precio": 3.0
+  },
+  "2": {
+    "codigo": "2",
+    "nombre": "paul",
+    "categoria": "5",
+    "precio": 5.0
+  }
+}

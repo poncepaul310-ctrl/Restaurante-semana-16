@@ -1,0 +1,62 @@
+{
+  "1001": {
+    "identificacion": "1001",
+    "nombre": "Ana Gómez",
+    "correo": "ana@restaurante.com"
+  },
+  "1002": {
+    "identificacion": "1002",
+    "nombre": "Luis Pérez",
+    "correo": "luis@restaurante.com"
+  },
+  "2565588998": {
+    "identificacion": "2565588998",
+    "nombre": "Jose Delgado",
+    "correo": "josedelgado121@gmail.com"
+  },
+  "1003": {
+    "identificacion": "1003",
+    "nombre": "María López",
+    "correo": "maria@restaurante.com"
+  },
+  "1004": {
+    "identificacion": "1004",
+    "nombre": "Carlos Ruiz",
+    "correo": "carlos@restaurante.com"
+  },
+  "2154556658": {
+    "identificacion": "2154556658",
+    "nombre": "emy",
+    "correo": "cvbij@gmail.com"
+  },
+  "5hgfd": {
+    "identificacion": "5hgfd",
+    "nombre": "5",
+    "correo": "5"
+  },
+  "8512": {
+    "identificacion": "8512",
+    "nombre": "fd",
+    "correo": "556gfc"
+  },
+  "7": {
+    "identificacion": "7",
+    "nombre": "8",
+    "correo": "5"
+  },
+  "TEST-U1": {
+    "identificacion": "TEST-U1",
+    "nombre": "Usuario Test",
+    "correo": "test@example.com"
+  },
+  "TEST-666d178a085d4f51a35888f5333c82e6": {
+    "identificacion": "TEST-666d178a085d4f51a35888f5333c82e6",
+    "nombre": "Ana Gómez",
+    "correo": "ana@restaurante.com"
+  },
+  "2101188585": {
+    "identificacion": "2101188585",
+    "nombre": "Paul Ponce",
+    "correo": "poncepaul310@gmail.com"
+  }
+}
